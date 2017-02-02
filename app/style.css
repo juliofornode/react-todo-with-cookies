@@ -1,0 +1,9 @@
+@import 'normalize.css';
+
+body {
+  margin: 50px;
+}
+
+.DisplayTasks {
+  margin-top: 50px;
+}
